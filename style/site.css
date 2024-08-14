@@ -1,0 +1,23 @@
+.cont1 {
+    display: flex;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+    border: 2px;
+    border-style: dashed;
+}
+
+.greenbox {
+    display: flex;
+    height: 80%;
+    width: 80%;
+    margin: 10% 10%;
+    background-color: green;
+}
+
+p {
+    max-width: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
